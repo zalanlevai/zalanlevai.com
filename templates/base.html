@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% block meta_content %}
+    {% if page.title -%}
+        <title>{{page.title}} - Zalán Lévai</title>
+    {% elif section.title -%}
+        <title>{{section.title}} - Zalán Lévai</title>
+    {% else -%}
+        <title>Zalán Lévai</title>
+    {% endif -%}
+    {% endblock meta_content %}
+
+    <link rel="stylesheet" href="/styles.css"/>
+</head>
+<body>
+    <header>
+        <a class="logo" href="/">Zalán Lévai</a>
+    </header>
+
+    <main>
+        {% block content %}{% endblock content %}
+    </main>
+
+    <footer>
+        <ul>
+            <li><a href="https://github.com/zalanlevai"><img src="/icons/github.svg" alt="GitHub"></a></li>
+            <li><a href="https://twitter.com/zalanlevai"><img src="/icons/twitter.svg" alt="Twitter"></a></li>
+            <li><a href="https://bsky.app/profile/zalanlevai.bsky.social"><img src="/icons/bluesky.svg" alt="BlueSky"></a></li>
+            <li><a href="https://hachyderm.io/@zalanlevai"><img src="/icons/mastodon.svg" alt="Mastodon"></a></li>
+            <li><a href="https://www.linkedin.com/in/zalanlevai"><img src="/icons/linkedin.svg" alt="LinkedIn"></a></li>
+        </ul>
+    </footer>
+</body>
+</html>
