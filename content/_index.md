@@ -17,7 +17,7 @@ year = 2026
 title = "A Comprehensive Empirical and Theoretical Analysis of Batching Algorithms for Efficient, Safe, Parallel Mutation Analysis in Rust"
 venue = "MUTATION Workshop at the International Conference on Software Testing (ICST), 2026"
 location = "Daejeon, South Korea"
-# uri = ""
+uri = "https://conf.researchr.org/details/icst-2026/mutation-2026-papers/6/HOP-A-Comprehensive-Empirical-and-Theoretical-Analysis-of-Batching-Algorithms-for-Ef"
 year = 2026
 
 [[extra.talks]]
