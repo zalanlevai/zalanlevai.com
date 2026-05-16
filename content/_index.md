@@ -1,5 +1,12 @@
 +++
 [[extra.talks]]
+title = "Can Your Tests Catch This? Practical Mutation Testing for Rust Programs with mutest-rs"
+venue = "Rust Dortmund"
+location = "Dortmund, Germany"
+uri = "https://www.meetup.com/rust-dortmund/events/314522781"
+year = 2026
+
+[[extra.talks]]
 title = "mutest-rs: Flexible, Efficient Mutation Analysis Tool for Rust Programs, using Extensive Static Analysis"
 venue = "International Conference on Software Testing (ICST), 2026"
 location = "Daejeon, South Korea"
