@@ -50,6 +50,15 @@ year = 2023
 
 
 [[extra.publications]]
+title = "Marv: An Interactive Tool for Visualising and Reviewing the Results of Mutation Analysis"
+authors = ["Daniel Wells", "Zalán Lévai", "Phil McMinn"]
+in = "International Conference on Automated Software Engineering (ASE), 2026"
+location = "Munich, Germany"
+doi = "10.1145/3832783.3834643"
+pdf = "https://raw.githubusercontent.com/rust-mutation-testing/publications/main/publications/marv-tool-paper/wells-marv-2026.pdf"
+year = 2026
+
+[[extra.publications]]
 title = "mutest-rs: Flexible, Efficient Mutation Analysis Tool for Rust Programs, using Extensive Static Analysis"
 authors = ["Zalán Lévai", "Donghwan Shin", "Phil McMinn"]
 in = "International Conference on Software Testing (ICST), 2026"
