@@ -39,6 +39,9 @@
         {% if talk.uri %}
             [<a href="{{ talk.uri }}">INFO</a>]
         {% endif %}
+        {% if talk.video_uri %}
+            [<a href="{{ talk.video_uri }}">VIDEO</a>]
+        {% endif %}
     </li>
 {% endfor %}
 </ul>

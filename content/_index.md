@@ -4,6 +4,7 @@ title = "Can Your Tests Catch This? Practical Mutation Testing for Rust Programs
 venue = "Rust Dortmund"
 location = "Dortmund, Germany"
 uri = "https://www.meetup.com/rust-dortmund/events/314522781"
+video_uri = "https://youtu.be/tBMccYVhRpM"
 year = 2026
 
 [[extra.talks]]
