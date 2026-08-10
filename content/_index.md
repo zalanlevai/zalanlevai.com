@@ -54,7 +54,7 @@ title = "mutest-rs: Flexible, Efficient Mutation Analysis Tool for Rust Programs
 authors = ["Zalán Lévai", "Donghwan Shin", "Phil McMinn"]
 in = "International Conference on Software Testing (ICST), 2026"
 location = "Daejeon, South Korea"
-# doi = ""
+doi = "10.1109/ICST69053.2026.00038"
 pdf = "https://raw.githubusercontent.com/rust-mutation-testing/publications/main/publications/mutest-rs-tool-paper/levai-mutest-2026.pdf"
 year = 2026
 
@@ -63,7 +63,7 @@ title = "Dynamic Mutation Scheduling: Highly Parallel, Efficient Evaluation of M
 authors = ["Zalán Lévai", "Donghwan Shin", "Phil McMinn"]
 in = "International Conference on Software Testing (ICST), 2026"
 location = "Daejeon, South Korea"
-# doi = ""
+doi = "10.1109/ICST69053.2026.00029"
 pdf = "https://raw.githubusercontent.com/rust-mutation-testing/publications/main/publications/dynamic-mutation-scheduling-paper/levai-scheduling-2026.pdf"
 year = 2026
 
